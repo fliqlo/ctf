@@ -37,4 +37,14 @@ Step 2: (Type in Terminal)
 git clone https://github.com/fliqlo/ctf.git
 
 Step 3:
+it's up to you now.
+let the game begin!
 
+info: find the flag the hidden string in this folder.
+      https://github.com/fliqlo/ctf.git
+
+Step 4:
+info: once you're done open this link:
+      https://google.com/.................
+
+      
