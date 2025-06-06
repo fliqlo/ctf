@@ -9,10 +9,32 @@ used for both competitive and educational purposes.
 
 Lets Begin!
 
+#info: git is a distributed version control system designed to track changes in files,
+      particularly useful for managing source code
+      in collaborative software development projects.
+
 # Commands to use
-# cd - Change Directory. Sample: cd Desktop
-# cat - Used to view the contents of a file. Sample: cat Instruction.txt 
+# ls - Used to list the contents of a directory,
+       showing files and directories within it.
+EXAMPLE: ls
+
+# cd - Change Directory. 
+EXAMPLE: cd Desktop
+
+# cat - Used to view the contents of a file. 
+EXAMPLE: cat Instructions.txt 
+
+# rm -rf - Used to remove a folders, files or a program.
+EXAMPLE: rm -rf Instructions.txt
+
+
 
 
 Step 1:
 Open Terminal
+
+Step 2: (Type in Terminal)
+git clone https://github.com/fliqlo/ctf.git
+
+Step 3:
+
