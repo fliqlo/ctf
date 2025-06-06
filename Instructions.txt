@@ -19,13 +19,13 @@ Lets Begin!
 EXAMPLE: ls
 
 # cd - Change Directory. 
-EXAMPLE: cd Desktop
+EXAMPLE: cd ctf
 
 # cat - Used to view the contents of a file. 
-EXAMPLE: cat Instructions.txt 
+EXAMPLE: cat 01.txt 
 
 # rm -rf - Used to remove a folders, files or a program.
-EXAMPLE: rm -rf Instructions.txt
+EXAMPLE: rm -rf 02.txt
 
 
 
@@ -44,7 +44,8 @@ info: find the flag the hidden string in this folder.
       https://github.com/fliqlo/ctf.git
 
 Step 4:
-info: once you're done open this link:
-      https://google.com/.................
+info: once you're done finding the flag,
+      copy and open this link in your browser:
+      https://forms.gle/kH2pw7Md1KttKJ9t6
 
       
